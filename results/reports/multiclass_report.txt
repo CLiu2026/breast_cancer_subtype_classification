@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+         HER       1.00      1.00      1.00         7
+       basal       1.00      1.00      1.00         8
+   luminal_A       0.89      1.00      0.94         8
+   luminal_B       1.00      0.90      0.95        10
+
+    accuracy                           0.97        33
+   macro avg       0.97      0.97      0.97        33
+weighted avg       0.97      0.97      0.97        33

@@ -9,12 +9,12 @@ Dataset: CuMiDa (GSE45827) - 151 samples, 54,676 gene probes.
 
 ## Repository Structure
 .
-|__ data/raw/ # Original CSV (not uploaded to GitHub)
-|__ notebooks/ # Jupyter notebooks (full pipeline)
-|__ src/ # Reusable modules
-|__ results/ # Figures, reports, saved models
-|__ requirements.txt
-|__ README.md
+├── data/raw/ # Original CSV (not uploaded to GitHub)
+├── notebooks/ # Jupyter notebooks (full pipeline)
+├── src/ # Reusable modules
+├── results/ # Figures, reports, saved models
+├── requirements.txt
+└── README.md
 ## Setup
 1. Clone this repo.
 2. Install dependencies: `pip install -r requirements.txt`
